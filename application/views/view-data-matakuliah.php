@@ -11,11 +11,11 @@
                 <th colspan="3">
                     Tampil Data Mata Kuliah
                 </th>
-            </tr>
+              </tr>
  
             <tr>
                 <td colspan="3">
-                <hr>
+                    <hr>
                 </td>
             </tr>
  
